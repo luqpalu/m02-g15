@@ -64,8 +64,9 @@ p {/* selecciona el parrafo y lo pinta */
 	}
 
 img{/* selecciona las imagenes y las formatea */
-	border: 0px solid gray;
-	width: 100%;
+	border: 100px solid gray;
+	width: 50%;
+
 	}
 
 
